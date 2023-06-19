@@ -26,20 +26,15 @@ The project introduces a new Train Ticket Booking System, which includes separat
 - Search Passenger’s Ticket Information
 
 # Screenshots:
-![Picture1](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/88f2541d-aa50-4db6-8ac8-85534ad657e2)
-![Picture2](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/9ee487a8-b579-43cc-9dac-ecab03a22a40)
-![Picture3](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/ab0b173c-bb77-4be3-b4fe-4d8eaf7bab10)
-![Picture4](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/a84bd479-fafd-43fb-b81c-7714249ece81)
-![Picture5](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/49b8f43b-2ab1-4638-ac08-0b715f728b04)
-![Picture6](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/4c8c1145-2601-477a-bc92-e5d0d4a56015)
-![Picture7](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/3a4f2e5c-1a5d-48e9-88b4-f8b79c8cc35a)
-![Picture8](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/9af81d4f-9fed-4b68-a616-a5063a3bc4d9)
-![Picture9](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/edc18834-d177-45f1-bf08-5e53e56407a3)
-
-
-
-
-
+![Screenshot 2023-04-06 at 05 24 08](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/f2698d91-3cee-4083-9992-cd65e5b1a0b4)
+![Screenshot 2023-04-06 at 05 22 26](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/ca4eafe0-6e5c-484e-a0de-9bf471a2781c)
+![image4](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/15774bce-eade-4f21-add4-19329283ca88)
+![Screenshot 2023-04-06 at 05 30 22](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/ab298ca1-dd3c-4498-842f-f800c57227ef)
+![Screenshot 2023-04-06 at 05 24 43](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/6cb5b3d7-5e9e-4bc5-b744-354e0211ff53)
+![Screenshot 2023-04-06 at 05 25 07](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/abf586f1-b276-4a78-8cb4-684a389a4c82)
+![Screenshot 2023-04-06 at 05 07 02](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/7454f39b-0663-415f-a52c-7736661db4aa)
+![Screenshot 2023-04-06 at 05 07 25](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/7f7b15b3-49ff-4733-ada4-f770225ab5b5)
+![Screenshot 2023-04-06 at 05 12 11](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/f6e28db1-d018-4441-b7f7-e060d32cccab)
 
 
 
