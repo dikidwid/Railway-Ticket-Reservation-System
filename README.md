@@ -34,7 +34,7 @@ The project introduces a new Train Ticket Booking System, which includes separat
 ![Picture6](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/4c8c1145-2601-477a-bc92-e5d0d4a56015)
 ![Picture7](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/3a4f2e5c-1a5d-48e9-88b4-f8b79c8cc35a)
 ![Picture8](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/9af81d4f-9fed-4b68-a616-a5063a3bc4d9)
-![Picture9](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/edc18834-d177-45f1-bf08-5e53e56407a3
+![Picture9](https://github.com/dikidwid/Railway-Ticket-Reservation-System/assets/92709211/edc18834-d177-45f1-bf08-5e53e56407a3)
 
 
 
